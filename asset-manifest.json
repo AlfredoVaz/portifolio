@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portifolio/static/css/main.894f4a66.chunk.css",
+    "main.js": "/portifolio/static/js/main.8e47ba48.chunk.js",
+    "main.js.map": "/portifolio/static/js/main.8e47ba48.chunk.js.map",
+    "runtime~main.js": "/portifolio/static/js/runtime~main.e9cc7322.js",
+    "runtime~main.js.map": "/portifolio/static/js/runtime~main.e9cc7322.js.map",
+    "static/js/2.c2e19106.chunk.js": "/portifolio/static/js/2.c2e19106.chunk.js",
+    "static/js/2.c2e19106.chunk.js.map": "/portifolio/static/js/2.c2e19106.chunk.js.map",
+    "index.html": "/portifolio/index.html",
+    "precache-manifest.af6c596730e63f7f6c9224d77bccd97a.js": "/portifolio/precache-manifest.af6c596730e63f7f6c9224d77bccd97a.js",
+    "service-worker.js": "/portifolio/service-worker.js",
+    "static/css/main.894f4a66.chunk.css.map": "/portifolio/static/css/main.894f4a66.chunk.css.map",
+    "static/media/AlfredoVaz.pdf": "/portifolio/static/media/AlfredoVaz.68375536.pdf",
+    "static/media/feitoMelhor.png": "/portifolio/static/media/feitoMelhor.3ddcacc8.png",
+    "static/media/fight.jpg": "/portifolio/static/media/fight.d8df97b7.jpg",
+    "static/media/geovanaGarcia.JPG": "/portifolio/static/media/geovanaGarcia.9efc0417.JPG",
+    "static/media/girlgif.gif": "/portifolio/static/media/girlgif.a3cee4ff.gif",
+    "static/media/minhaFoto.JPG": "/portifolio/static/media/minhaFoto.b7536715.JPG",
+    "static/media/videoMaker.jpg": "/portifolio/static/media/videoMaker.8907e9b6.jpg"
+  }
+}
